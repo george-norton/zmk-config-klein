@@ -12,6 +12,5 @@
 #     shield: reviung41
 #
 ---
-include:
-  - board: seeeduino_xiao_ble
-    shield: [ "klein_left", "klein_right" ]
+board: [ "seeeduino_xiao_ble" ]
+shield: [ "klein_left", "klein_right" ]
